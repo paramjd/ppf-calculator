@@ -13,7 +13,7 @@ This project contains a Python script `ppf_calculator.py` to calculate the retur
 3. Run the script using the following command:
 
     ```bash
-    python ppf_calculator.py
+    python3 ppf_calculator.py
     ```
 
 4. Follow the on-screen instructions to input the required details.
@@ -43,4 +43,4 @@ This project includes a test script `test_ppf_calculator.py` to verify the funct
     python3 test_ppf-calculator.py 
     ```
 
-4. The test results will be displayed in the terminal.
+3. The test results will be displayed in the terminal.
